@@ -1,5 +1,6 @@
 ---
 title: "깃허브 페이지 생성하기 (Minimal Mistakes 테마)"
+last_modified_at: 2023-02-24T07:30:00+09:00
 categories:
   - Blog
 tags:
