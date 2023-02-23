@@ -1,11 +1,11 @@
 ---
 title: "깃허브 페이지 생성하기 (Minimal Mistakes 테마)"
 categories:
-- Blog
+  - Blog
 tags:
-- GitHub
-- Pages
-- Minimal Mistakes
+  - GitHub
+  - Pages
+  - Minimal Mistakes
 ---
 
 # 요약
