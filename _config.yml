@@ -118,16 +118,16 @@ tag_archive:
 future: true
 
 comments:
-  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname: "sunchulbaek"
-#  giscus:
-#    repo_id: "R_kgDOJBXjtg" # Shown during giscus setup at https://giscus.app
-#    category_name: "General" # Full text name of the category
-#    category_id: "DIC_kwDOJBXjts4CUbYB" # Shown during giscus setup at https://giscus.app
-#    discussion_term: "pathname" # "pathname" (default), "url", "title", "og:title"
-#    reactions_enabled: 1 # '1' for enabled (default), '0' for disabled
-#    theme: "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+  provider: "giscus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+#  disqus:
+#    shortname: "sunchulbaek"
+  giscus:
+    repo_id: "R_kgDOJBXjtg" # Shown during giscus setup at https://giscus.app
+    category_name: "General" # Full text name of the category
+    category_id: "DIC_kwDOJBXjts4CUbYB" # Shown during giscus setup at https://giscus.app
+    discussion_term: "pathname" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled: 1 # '1' for enabled (default), '0' for disabled
+    theme: "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
 
 # Analytics
 analytics:
