@@ -118,9 +118,9 @@ tag_archive:
 future: true
 
 comments:
-#  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
-#  disqus:
-#    shortname: "sunchulbaek"
+  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname: "sunchulbaek"
 #  provider: "giscus"
 #  giscus:
 #    repo: SunChulBaek/SunChulbaek.github.io
@@ -130,10 +130,7 @@ comments:
 #    discussion_term: "pathname" # "pathname" (default), "url", "title", "og:title"
 #    reactions_enabled: 1 # '1' for enabled (default), '0' for disabled
 #    theme: "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-  provider: "utterances"
-    utterances:
-      theme: "github-dark" # "github-dark"
-      issue_term: "pathname"
+
 
 # Analytics
 analytics:
