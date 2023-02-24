@@ -118,9 +118,13 @@ tag_archive:
 future: true
 
 comments:
-  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname: "sunchulbaek"
+  provider: "utterances"
+    utterances:
+      theme: "github-dark" # "github-light" (default), "github-dark"
+      issue_term: "pathname" # "pathname" (default)
+#  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
+#  disqus:
+#    shortname: "sunchulbaek"
 #  provider: "giscus"
 #  giscus:
 #    repo: SunChulBaek/SunChulbaek.github.io
