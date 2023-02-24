@@ -117,6 +117,8 @@ tag_archive:
 
 future: true
 
+repository: SunChulBaek/SunChulBaek.github.io
+
 comments:
   provider: "utterances"
     utterances:
