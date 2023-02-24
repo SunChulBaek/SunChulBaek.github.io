@@ -119,7 +119,7 @@ future: true
 comments:
   provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname: "sunchulbaek.github.io"
+    shortname: "sunchulbaek"
 #  giscus:
 #    repo_id: "R_kgDOJBXjtg" # Shown during giscus setup at https://giscus.app
 #    category_name: "General" # Full text name of the category
