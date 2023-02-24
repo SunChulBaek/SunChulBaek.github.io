@@ -119,10 +119,10 @@ future: true
 
 repository : "SunChulBaek/SunChulBaek.github.io"
 comments:
-provider: "utterances"
-utterances:
-  theme: "github-light" # "github-dark"
-  issue_term: "pathname"
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
 
 # comments:
 #  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
