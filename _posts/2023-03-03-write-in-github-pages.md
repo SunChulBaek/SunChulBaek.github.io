@@ -36,10 +36,21 @@ tags:
 짜잔. 계정이 추가 되었습니다.
 ![5](/assets/images/2023-03-03-wirte-in-github-pages/5.png)
 
-## 소스 클론
+## 소스 
+'File > New > Project from Version Control'로 갑니다.
+계정, 클론할 리포지터리, 클론할 위치를 선택하여 클론 버튼을 누릅니다.
+![6](/assets/images/2023-03-03-wirte-in-github-pages/6.png)
 
 ## 파일 생성
+_posts 디렉토리에서 우클릭 'New > File'을 선택하여 위의 파일명 규칙에 따라 파일을 만듭니다.
+![7](/assets/images/2023-03-03-wirte-in-github-pages/7.png)
 
 ## commit & push
+파일내용을 블라블라 작성을 하고 상단의 초록 체크 버튼을 누릅니다.
+![8](/assets/images/2023-03-03-wirte-in-github-pages/8.png)
+
+업로드할 파일을 체크 해주고, commit message를 작성하고 commit 버튼 옆의 화살표를 눌러 commit and push를 선택합니다.
+![9](/assets/images/2023-03-03-wirte-in-github-pages/9.png)
 
 ## 확인
+잠시 후에 업로드 된 내용을 확인 할 수 있습니다.
